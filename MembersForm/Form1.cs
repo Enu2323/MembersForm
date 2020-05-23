@@ -15,6 +15,7 @@ namespace MembersForm
         public Form1()
         {
             InitializeComponent();
+            int sum;
         }
     }
 }
